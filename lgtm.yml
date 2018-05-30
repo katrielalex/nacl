@@ -1,2 +1,3 @@
-index:
-    build_command: ./do
+extraction:
+    index:
+        build_command: ./do
